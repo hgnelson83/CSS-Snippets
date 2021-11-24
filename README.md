@@ -1,2 +1,2 @@
-# CSS TIPS
+# CSS Snippets
 testing
