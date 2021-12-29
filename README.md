@@ -55,9 +55,7 @@ nav ul {
   display: flex;
   justify-content: space-between;
 }
-```
-### Html
-```
+
 <nav>
   <ul>
     <li><a href="#">Link 1</a></li>
